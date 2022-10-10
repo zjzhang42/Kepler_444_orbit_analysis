@@ -1,0 +1,6 @@
+# Instrument: Keck/HIRES
+# the single-epoch delta RV between Kepler-444BC and A components (i.e., RV_BC - RV_A)
+# File format:
+# Epoch[JD]   RV[m/s] RV_err[m/s] PlanetID
+2456783.1     -3100   200         0
+
