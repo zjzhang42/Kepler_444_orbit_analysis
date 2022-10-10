@@ -1,0 +1,32 @@
+# README for FITS files of chains
+
+## files:
+chains_main_science_results.fits: shown in Table 4 and Figures 4-5
+chains_broad_MA_prior.fits:       shown in Table 5
+chains_without_BC_A_deltaRV.fits: shown in Table 6
+
+
+## Notes:
+This FITS table contains burned-in chains of Kepler-444's parameters presented in the paper.
+
+
+## Column description:
+mpri        : mass of Kepler-444A (unit: M_sun)
+msec0       : mass of Kepler-444BC (unit: M_sun)
+sau0        : semi-major axis of BC's barycentric orbit (unit: au)
+esino0      : sqrt(ecc) x sin(omega_star)
+ecoso0      : sqrt(ecc) x cos(omega_star)
+inc0        : orbital inclination of BC's barycentric orbit (unit: radian)
+asc0        : position angle of the ascending node of BC's barycentric orbit (unit: radian)
+lam0        : mean longitude at J2000 (unit: radian)
+jitter0     : HET/HRS RV jitter (unit: m/s)
+jitter1     : post-upgrade Keck/HIRES RV jitter (unit: m/s)
+jitter2     : pre-upgrade Keck/HIRES RV jitter (unit: m/s)
+RV_ZP_0_ML  : HET/HRS RV zero point (unit: m/s)
+RV_ZP_1_ML  : post-upgrade Keck/HIRES RV zero point (unit: m/s)
+RV_ZP_2_ML  : pre-upgrade Keck/HIRES RV zero point (unit: m/s)
+plx_mas     : parallax of the system (unit: mas)
+pmra_masyr  : RA proper motion of the system (unit: mas)
+pmdec_masyr : Dec proper motion of the system (unit: mas)
+lnp         : log probability (with Gaussian probabilities incorporated to account for the uncertainties of the observed Gaia parallax and the Hipparcos-Gaia proper motions)
+
