@@ -1,13 +1,13 @@
-# README for FITS files of chains
+# README for FITS files of chains presented in Zhang et al. (2022):
+Title: The McDonald Accelerating Stars Survey (MASS): Architecture of the Ancient Five-Planet Host System Kepler-444
+Authors: Zhoujian Zhang, Brendan P. Bowler, Trent J. Dupuy, Timothy D. Brandt, G. Mirek Brandt, William D. Cochran, Michael Endl, Phillip J. Macqueen, Kaitlin M. Kratter, Howard T. Isaacson, Kyle Franson, Adam L. Kraus, Caroline V. Morley, Yifan Zhou
 
 ## files:
-chains_main_science_results.fits: shown in Table 4 and Figures 4-5
-chains_broad_MA_prior.fits:       shown in Table 5
-chains_without_BC_A_deltaRV.fits: shown in Table 6
-
-
-## Notes:
-This FITS table contains burned-in chains of Kepler-444's parameters presented in the paper.
+* chains_main_science_results.fits: shown in Table 4 and Figures 4-5
+* chains_broad_MA_prior.fits:       shown in Table 5
+* chains_without_BC_A_deltaRV.fits: shown in Table 6
+Download the following FITS files from this dropbox link:
+https://www.dropbox.com/sh/vxq0hxqrep0mnzf/AAAl2ieN4M6Jkv6yKdtg1yw3a?dl=0
 
 
 ## Column description:
