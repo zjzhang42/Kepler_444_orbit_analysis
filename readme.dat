@@ -6,8 +6,9 @@ Authors: Zhoujian Zhang, Brendan P. Bowler, Trent J. Dupuy, Timothy D. Brandt, G
 * chains_main_science_results.fits: shown in Table 4 and Figures 4-5
 * chains_broad_MA_prior.fits:       shown in Table 5
 * chains_without_BC_A_deltaRV.fits: shown in Table 6
-Download the following FITS files from this dropbox link:
-https://www.dropbox.com/sh/vxq0hxqrep0mnzf/AAAl2ieN4M6Jkv6yKdtg1yw3a?dl=0
+
+These files contain the MCMC chains produced by the orvara analysis presented in the paper. Please download the above FITS files from this google drive link:
+https://drive.google.com/drive/folders/101wsZwrgMAwhfWEPDAjos42rHkCe89V1?usp=share_link
 
 
 ## Column description:
@@ -30,3 +31,9 @@ pmra_masyr  : RA proper motion of the system (unit: mas)
 pmdec_masyr : Dec proper motion of the system (unit: mas)
 lnp         : log probability (with Gaussian probabilities incorporated to account for the uncertainties of the observed Gaia parallax and the Hipparcos-Gaia proper motions)
 
+
+## Contact:
+Please contact ZJ Zhang (zhangdirac.at.gmail.com) for any questions.
+
+## Acknowledgement:
+If you make use of these files, please cite Zhang et al. (2022): https://ui.adsabs.harvard.edu/abs/2022arXiv221007252Z/abstract
